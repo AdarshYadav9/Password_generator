@@ -16,11 +16,9 @@ Easily create strong and secure passwords with options for length, numbers, and 
 
 ---
 
-## 🖼️ Preview
-> *(Add screenshots once ready)*  
+## 🖼️ Preview 
 Example:  
-
-![Uploading Screenshot 2025-08-27 at 1.03.31 AM.png…]()
+![Uploading Screenshot 2025-08-27 at 1.04.44 AM.png…]()
 
 ---
 
